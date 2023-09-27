@@ -2,7 +2,6 @@ import streamlit as st
 from PyPDF2 import PdfReader
 import docx2txt
 from utils.html_blocks import bot_template, user_template, css
-from dotenv import load_dotenv
 from pptx import Presentation
 import openai
 from langchain.memory import ConversationBufferMemory
