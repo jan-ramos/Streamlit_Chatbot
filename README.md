@@ -1,6 +1,6 @@
 # Class Notes and Textbooks QnA
 
-Chat with your class notes and textbooks.
+Chat with your class notes and textbooks using OpenAI gpt-3.5-turbo.
 
 Easily upload any PDF, Text document, Word document and PowerPoint file you'd like to chat with. You'll be able to ask questions to your textbooks, class notes and much more!
 
@@ -12,7 +12,9 @@ Easily upload any PDF, Text document, Word document and PowerPoint file you'd li
 
 3. Run "python app.py"
 
-4. Upload documents
+4. Add OpenAI key
+
+5. Upload documents
 
 To run streamlit app, follow the steps run "streamlit run 'app.py'"
 
