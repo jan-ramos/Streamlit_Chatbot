@@ -18,6 +18,10 @@ Easily upload any PDF, Text document, Word document and PowerPoint file you'd li
 
 To run streamlit app, follow the steps run "streamlit run 'app.py'"
 
+Also
+
+Deployed here: https://student-notes-qna.streamlit.app/
+
 ### Future Plans
 
 1. Add speech to text functionality.
