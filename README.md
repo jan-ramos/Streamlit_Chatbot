@@ -1,7 +1,6 @@
 # Class Notes and Textbooks QnA
-### Great for college and high school students!
 
-Chat with your class notes and textbooks! 
+Chat with your class notes and textbooks.
 
 Easily upload any PDF, Text document, Word document and PowerPoint file you'd like to chat with. You'll be able to ask questions to your textbooks, class notes and much more!
 
