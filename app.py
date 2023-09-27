@@ -1,6 +1,5 @@
 import streamlit as st
 from utils.html_blocks import bot_template, user_template, css
-from dotenv import load_dotenv
 from pptx import Presentation
 import openai
 import utils.chatflow as chat
