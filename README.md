@@ -1,4 +1,4 @@
-# Class Notes and Textbooks QnA
+# Streamlit Document Loader QnA Chatbot
 
 Chat with your class notes and textbooks using OpenAI gpt-3.5-turbo.
 
