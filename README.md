@@ -20,7 +20,7 @@ To run streamlit app, follow the steps run "streamlit run 'app.py'"
 
 Also
 
-Deployed here: https://student-notes-qna.streamlit.app/
+Deployed here: https://qna-app.streamlit.app/
 
 ### Future Plans
 
